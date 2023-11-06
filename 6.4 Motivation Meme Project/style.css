@@ -1,0 +1,21 @@
+html{
+    width: 100%;
+    background: black;
+    color: white;
+}
+
+.firstDiv{
+    padding-top: 50px;
+    text-align: center;
+   
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-family: 'Sometype Mono', monospace;
+}
+.imgClass{
+    text-align: center;
+    /* padding-left: 30%; */
+    
+}
